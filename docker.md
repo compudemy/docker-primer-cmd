@@ -16,6 +16,12 @@ List Running Conatiners
     docker ps
 ```
 
+Run Node in interactive node
+
+```bash
+    docker run -it node
+```
+
 List All containers
 
 ```bash
