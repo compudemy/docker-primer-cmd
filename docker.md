@@ -15,6 +15,11 @@ List Running Conatiners
 ```bash
     docker ps
 ```
+Pull Docker image  
+
+```bash
+    docker pull node 
+```
 
 Run Node in interactive node
 
